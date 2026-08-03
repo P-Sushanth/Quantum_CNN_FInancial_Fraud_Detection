@@ -1,4 +1,5 @@
 # QuantumShield
+## Demo Link : https://huggingface.co/spaces/Sushanth-27/quantum-fraud-detection
 ### Hybrid Quantum-Classical Neural Network for Financial Fraud Detection
 
 QuantumShield is a web-based application that compares a **Classical Artificial Neural Network (ANN)** and a **Hybrid Quantum-Classical Neural Network (HQNN)** for detecting fraudulent credit card transactions.
