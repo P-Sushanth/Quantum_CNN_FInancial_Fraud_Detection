@@ -1,0 +1,6 @@
+flask
+torch
+numpy
+pennylane
+scikit-learn
+gunicorn
