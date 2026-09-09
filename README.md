@@ -14,6 +14,13 @@ A hybrid Quantum-Classical Machine Learning web application that compares the pe
 
 ---
 
+## 🔗 Repository & Live Demo
+
+- **GitHub Repository**: [P-Sushanth/Quantum_CNN_FInancial_Fraud_Detection](https://github.com/P-Sushanth/Quantum_CNN_FInancial_Fraud_Detection)
+- **Live Demo Space**: [Hugging Face Space / Live Demo](https://huggingface.co/spaces/P-Sushanth/Quantum_CNN_Financial_Fraud_Detection) *(Update with exact link if hosted on HF Spaces or equivalent)*
+
+---
+
 ## 🏗 Project Architecture
 
 ```
@@ -68,8 +75,8 @@ qml_fraud_detection/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/qml_fraud_detection.git
-   cd qml_fraud_detection
+   git clone https://github.com/P-Sushanth/Quantum_CNN_FInancial_Fraud_Detection.git
+   cd Quantum_CNN_FInancial_Fraud_Detection
    ```
 
 2. **Create a virtual environment (Optional but recommended)**:
